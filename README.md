@@ -19,7 +19,7 @@ Welcoome to the HackerRank 30 days of Code Solutions repository!
 
 ## [Personal HackerRank Profile]()
 
-[View Profile]("https://www.hackerrank.com/profile/aryankadyan")
+[View Profile](https://www.hackerrank.com/profile/aryankadyan)
 
 ## [Disclaimer]()
 
