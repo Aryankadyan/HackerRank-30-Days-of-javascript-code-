@@ -13,7 +13,7 @@ static class TestDataEmptyArray{
     }
     static class TestDataExactlyTwoDifferentMinimums{
         public static int[] get_array(){
-            return new int[]{17,11,450,69,87,16,11};      
+            return new int[]{17,11,455,66,87,16,11};      
         }
         public static int get_expected_result(){
             return 1;
